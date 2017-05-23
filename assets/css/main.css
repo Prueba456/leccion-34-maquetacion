@@ -6,6 +6,7 @@
 *{
   font-family: "proxima-nova-soft";
 }
+
 .color{
   background-color: red;
   height: 300px;
@@ -91,15 +92,99 @@ h1{
   align-items: center;
   left: 0;
 }
+.color1{
+  background-color: blue;
+  width: 60px;
+  height: 80px;
+}
+.icon2{
+  width: 60px;
+  height: 80px;
+}
+.icon3{
+  width: 80px;
+  height: 80px;
+}
+.color2{
+  margin-top: 20px;
+}
+.margintop{
+  margin-top: 60px;
+}
+.circuloamarillo{
+  margin-top: 24px;
+  position: relative;
+  display: flex;
+  width: 240px;
+  height: 240px;
+  border-radius: 120px;
+  background-color: #ffcc66;
+}
+.icon1{
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  left: 40px;
+  top: 40px;
+}
+i{
+  width: 400px;
+  height: 400px;
+}
+.tamañoicon{
+  font-size: 400px;
+  width: 400px;
+  height: 400px;
+}
 .menu{
   width: 1300px;
 }
 .negrita{
   font-weight: bold;
 }
+.colorceleste{
+  font-size: 50px;
+  color: #3498db;
+}
+.texto4{
+  text-align: center;
+  font-size: 17px;
+}
+.titulo4{
+  color: #6ea43f;
+  font-size: 17px;
+}
+.centertext{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.texto{
+  line-height: 40px
+}
+.texto2{
+  line-height: 20px
+}
+.marginambos{
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.colorfondo{
+
+  background-color: #E8EBEC;
+}
+.marginambos2{
+  margin-top: 5%;
+  margin-left: 9%;
+  margin-right: 9%;
+}
 .flex-icons{
   display: flex;
-
+}
+.titulo3{
+  font-size: 60px;
+  color: #3498db;
 }
 .flex-area{
   height: 800px;
